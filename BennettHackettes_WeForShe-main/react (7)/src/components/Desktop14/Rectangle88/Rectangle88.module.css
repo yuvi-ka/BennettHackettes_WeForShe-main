@@ -1,0 +1,57 @@
+.root {
+  position: absolute;
+  left: 1049px;
+  top: 379px;
+  width: 310px;
+  height: 339px;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.tOPSTYLIST {
+  color: #000;
+  font-size: 24px;
+  font-family: Abril Fatface, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.017em;
+  position: absolute;
+  left: -262.2581%;
+  right: 313.5484%;
+  top: 97.3451%;
+  bottom: -6.1947%;
+  justify-content: center;
+  flex-direction: column;
+}
+.rectangle88 {
+  position: absolute;
+  left: -5.4839%;
+  right: 0;
+  top: 0;
+  bottom: -10.6195%;
+  border-radius: 20px;
+  background-color: #0db9c426;
+  box-shadow: 0px 4px 4px 0px #00000040;
+}
+.rectangle90 {
+  position: absolute;
+  left: 0;
+  right: 5.8065%;
+  top: 5.6047%;
+  bottom: -3.5398%;
+  border-radius: 20px;
+  background-image:/* webpackIgnore: true */ url('assets/rectangle90.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.image68 {
+  position: absolute;
+  left: 0;
+  right: 82.5806%;
+  top: 5.6047%;
+  bottom: 80.826%;
+  border-radius: 40px;
+  background-image:/* webpackIgnore: true */ url('assets/image68.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}

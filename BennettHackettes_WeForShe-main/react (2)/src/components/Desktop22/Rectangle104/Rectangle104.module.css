@@ -1,0 +1,32 @@
+.root {
+  position: absolute;
+  left: 1194px;
+  top: 116px;
+  width: 219px;
+  height: 74px;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.rectangle104 {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  border-radius: 80px;
+  background-color: #fff;
+}
+.showModel {
+  color: #000;
+  font-size: 24px;
+  font-family: Adamina, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.017em;
+  position: absolute;
+  left: 18.7215%;
+  right: 0.0105%;
+  top: 27.027%;
+  bottom: 26.5444%;
+  justify-content: center;
+  flex-direction: column;
+}

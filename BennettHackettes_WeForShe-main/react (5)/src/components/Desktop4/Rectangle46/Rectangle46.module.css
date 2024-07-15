@@ -1,0 +1,55 @@
+.root {
+  position: absolute;
+  left: 530px;
+  top: 634px;
+  width: 409px;
+  height: 272px;
+  flex-direction: column;
+  align-items: flex-start;
+  border-radius: 15px;
+}
+.rectangle46 {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  border-radius: 15px;
+  background-color: #d9d9d9;
+}
+.image33 {
+  position: absolute;
+  left: 0;
+  right: 34.2298%;
+  top: 0;
+  bottom: 0;
+  border-radius: 15px;
+  background-image:/* webpackIgnore: true */ url('assets/image33.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.image34 {
+  position: absolute;
+  left: 65.7702%;
+  right: 0;
+  top: 0;
+  bottom: 47.0588%;
+  border-radius: 15px;
+  background-image:/* webpackIgnore: true */ url('assets/image34.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.image35 {
+  position: absolute;
+  left: 65.7702%;
+  right: 0;
+  top: 52.9412%;
+  bottom: 0;
+  border-radius: 15px;
+  background-image:/* webpackIgnore: true */ url('assets/image35.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}

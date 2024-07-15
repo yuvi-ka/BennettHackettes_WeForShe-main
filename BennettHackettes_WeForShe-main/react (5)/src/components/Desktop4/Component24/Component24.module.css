@@ -1,0 +1,55 @@
+.root {
+  position: relative;
+  width: 388px;
+  height: 271px;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.rectangle33 {
+  position: absolute;
+  left: 0;
+  right: 52.5773%;
+  top: 0;
+  bottom: 0;
+  border-radius: 60px;
+  background-image:/* webpackIgnore: true */ url('assets/rectangle33.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.rectangle35 {
+  position: absolute;
+  left: 20.8763%;
+  right: 31.701%;
+  top: 0;
+  bottom: 0;
+  border-radius: 60px;
+  background-image:/* webpackIgnore: true */ url('assets/rectangle35.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.rectangle37 {
+  position: absolute;
+  left: 37.1134%;
+  right: 15.4639%;
+  top: 0;
+  bottom: 0;
+  border-radius: 60px;
+  background-image:/* webpackIgnore: true */ url('assets/rectangle37.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.rectangle36 {
+  position: absolute;
+  left: 52.5773%;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  border-radius: 60px;
+  background-image:/* webpackIgnore: true */ url('assets/rectangle36.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}

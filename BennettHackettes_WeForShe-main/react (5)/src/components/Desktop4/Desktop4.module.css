@@ -1,0 +1,288 @@
+.rectangle41.rectangle41 {
+  opacity: 0;
+  box-shadow: inset 0px 4px 4px 0px #00000040;
+}
+.rectangle42.rectangle42 {
+  opacity: 0;
+  left: 1221px;
+  box-shadow: inset 0px 4px 4px 0px #00000040;
+}
+.myBoards {
+  color: #000;
+  font-size: 24px;
+  font-family: Bahnschrift, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 17.341%;
+  right: 24.8555%;
+  top: 29.1667%;
+  bottom: 30.5556%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.rectangle48.rectangle48 {
+  left: -14px;
+  top: 14px;
+}
+.root {
+  position: relative;
+  width: 1512px;
+  height: 982px;
+  flex-direction: column;
+  align-items: flex-start;
+  background-color: #fff;
+  overflow: hidden;
+}
+.polygon9 {
+  position: absolute;
+  left: 799px;
+  top: 29px;
+  width: 260px;
+  height: 211px;
+  overflow: visible;
+  filter: drop-shadow(0px 4px 4px #00000040);
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.polygon6 {
+  position: absolute;
+  left: 1320px;
+  top: 527px;
+  width: 260px;
+  height: 211px;
+  overflow: visible;
+  filter: drop-shadow(0px 4px 4px #00000040);
+}
+.icon2 {
+  width: 100%;
+  height: 100%;
+}
+.polygon92 {
+  position: absolute;
+  left: -77px;
+  top: 491px;
+  width: 280px;
+  height: 211px;
+  overflow: visible;
+  filter: drop-shadow(0px 4px 4px #00000040);
+}
+.icon3 {
+  width: 100%;
+  height: 100%;
+}
+.polygon1 {
+  position: absolute;
+  left: 1308px;
+  top: 76px;
+  width: 283px;
+  height: 310px;
+  overflow: visible;
+  filter: drop-shadow(0px 4px 4px #00000040);
+}
+.icon4 {
+  width: 100%;
+  height: 100%;
+}
+.polygon4 {
+  position: absolute;
+  left: 340px;
+  top: 117px;
+  width: 310px;
+  height: 283px;
+  overflow: visible;
+  filter: drop-shadow(0px 4px 4px #00000040);
+}
+.icon5 {
+  width: 100%;
+  height: 100%;
+}
+.polygon10 {
+  position: absolute;
+  left: -92px;
+  top: 88px;
+  width: 310px;
+  height: 283px;
+  overflow: visible;
+  filter: drop-shadow(0px 4px 4px #00000040);
+}
+.icon6 {
+  width: 100%;
+  height: 100%;
+}
+.polygon3 {
+  position: absolute;
+  left: 821px;
+  top: 241px;
+  width: 361px;
+  height: 361px;
+  overflow: visible;
+  filter: drop-shadow(0px 4px 4px #00000040);
+}
+.icon7 {
+  width: 100%;
+  height: 100%;
+}
+.polygon2 {
+  position: absolute;
+  left: -117px;
+  top: 751px;
+  width: 283px;
+  height: 310px;
+  overflow: visible;
+  filter: drop-shadow(0px 4px 4px #00000040);
+}
+.icon8 {
+  width: 100%;
+  height: 100%;
+}
+.rectangle47 {
+  position: absolute;
+  left: 532.5px;
+  top: 896.5px;
+  width: 409px;
+  height: 60px;
+  overflow: visible;
+  filter: drop-shadow(0px 4px 4px #00000040);
+}
+.icon9 {
+  width: 100%;
+  height: 100%;
+}
+.frame23 {
+  position: absolute;
+  left: 34px;
+  top: 289px;
+  width: 850px;
+  height: 344px;
+}
+.frame24 {
+  position: absolute;
+  left: 59px;
+  top: 273px;
+  width: min-content;
+  height: min-content;
+  align-items: flex-start;
+  gap: 69px;
+}
+.image30 {
+  width: 409px;
+  height: 337.6233px;
+  background-image:/* webpackIgnore: true */ url('assets/image30.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  box-shadow: 0px 4px 4px 0px #00000040;
+}
+.wishlist {
+  color: #000;
+  font-size: 36px;
+  font-family: Bahnschrift, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 32px;
+  top: 266px;
+  width: 263px;
+  height: 71px;
+  justify-content: center;
+  flex-direction: column;
+}
+.polygon7 {
+  position: absolute;
+  left: 936px;
+  top: 811px;
+  width: 106px;
+  height: 128px;
+  overflow: visible;
+}
+.icon10 {
+  width: 100%;
+  height: 100%;
+}
+.polygon11 {
+  position: absolute;
+  left: 936px;
+  top: 811px;
+  width: 106px;
+  height: 128px;
+  overflow: visible;
+  filter: drop-shadow(0px 4px 4px #00000040);
+}
+.icon11 {
+  width: 100%;
+  height: 100%;
+}
+.polygon12 {
+  position: absolute;
+  left: 445px;
+  top: 574px;
+  width: 106px;
+  height: 128px;
+  overflow: visible;
+  filter: drop-shadow(0px 4px 4px #00000040);
+}
+.icon12 {
+  width: 100%;
+  height: 100%;
+}
+.image32 {
+  position: absolute;
+  left: 4.0972%;
+  right: 67.4306%;
+  top: 63.9648%;
+  bottom: 2.9297%;
+  background-image:/* webpackIgnore: true */ url('assets/image32.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  box-shadow: 0px 4px 4px 0px #00000040;
+}
+.loungeWear {
+  color: #000;
+  font-size: 36px;
+  font-family: Bahnschrift, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 551px;
+  top: 919px;
+  width: 354px;
+  height: 34px;
+  flex-direction: column;
+}
+.image36 {
+  position: absolute;
+  left: 1016px;
+  top: 628px;
+  width: 409px;
+  height: 339px;
+  background-image:/* webpackIgnore: true */ url('assets/image36.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  box-shadow: 0px 4px 4px 0px #00000040;
+}
+.image42 {
+  position: absolute;
+  left: 1267px;
+  top: 34px;
+  width: 221px;
+  height: 49px;
+  background-image:/* webpackIgnore: true */ url('assets/image42.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.icons8Collage504 {
+  position: absolute;
+  left: 1220px;
+  top: 44px;
+  width: 31px;
+  height: 30px;
+  background-image:/* webpackIgnore: true */ url('assets/icons8Collage504.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}

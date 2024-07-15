@@ -1,0 +1,75 @@
+.myntra1.myntra1 {
+  left: 2.8834%;
+  right: 91.8087%;
+  top: 14.433%;
+  bottom: 14.433%;
+  width: initial;
+  height: initial;
+}
+.root {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 1526px;
+  height: 97px;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.rectangle27 {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  background-color: #fff;
+  box-shadow: 0px 4px 4px 0px #00000040;
+}
+.hOME {
+  color: #000;
+  font-size: 24px;
+  font-family: Adamina, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.017em;
+  position: absolute;
+  left: 22.7392%;
+  right: 71.8218%;
+  top: 28.866%;
+  bottom: 37.1134%;
+  width: min-content;
+  height: min-content;
+  text-shadow: 0px 4px 4px #00000040;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.tRENDMOSAIC {
+  color: #000;
+  font-size: 24px;
+  font-family: Adamina, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.017em;
+  position: absolute;
+  left: 34.7313%;
+  right: 51.3761%;
+  top: 32.9897%;
+  bottom: 36.0825%;
+  justify-content: center;
+  text-shadow: 0px 4px 4px #00000040;
+  flex-direction: column;
+}
+.cHICMIRAGE {
+  color: #000;
+  font-size: 24px;
+  font-family: Adamina, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.017em;
+  position: absolute;
+  left: 51.9659%;
+  right: 36.4351%;
+  top: 28.866%;
+  bottom: 37.1134%;
+  width: min-content;
+  height: min-content;
+  text-shadow: 0px 4px 4px #00000040;
+  white-space: nowrap;
+  flex-direction: column;
+}

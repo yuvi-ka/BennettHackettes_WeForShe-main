@@ -1,0 +1,29 @@
+.root {
+  position: relative;
+  width: 164px;
+  height: 235px;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.tinywow_change_bg_photo_601734 {
+  position: absolute;
+  left: 0;
+  right: 39.6078%;
+  top: 0;
+  bottom: 0;
+  background-image:/* webpackIgnore: true */ url('assets/tinywow_change_bg_photo_601734.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.tinywow_change_bg_photo_6017342 {
+  position: absolute;
+  left: 39.6078%;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  background-image:/* webpackIgnore: true */ url('assets/tinywow_change_bg_photo_6017342.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
